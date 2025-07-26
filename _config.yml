@@ -1,0 +1,63 @@
+# GitHub Pages Configuration
+# This file is optional but can be used to configure GitHub Pages settings
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Site settings
+title: "UltiUnity - Unified AI MCP Platform"
+description: "The ultimate platform for managing AI MCP tools with governance, security, and seamless integration across all clients."
+url: "https://ultiunity.com"
+baseurl: ""
+
+# SEO settings
+author: "UltiUnity Team"
+twitter:
+  username: ultiunity
+social:
+  name: UltiUnity
+  links:
+    - https://twitter.com/ultiunity
+    - https://github.com/ulti-unity
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - assets/scss/
+  - node_modules/
+  - vendor/
+
+# Include files
+include:
+  - _pages
+  - assets/
+
+# Collections
+collections_dir: collections
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+# Analytics
+google_analytics: UA-XXXXXXXX-X # Replace with your GA tracking ID
