@@ -2,43 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ultiunity.com/</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ultiunity.com/#features</loc>
-    <lastmod>2025-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ultiunity.com/#platform</loc>
-    <lastmod>2025-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://ultiunity.com/privacy.html</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ultiunity.com/terms.html</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ultiunity.com/cookies.html</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ultiunity.com/compliance.html</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2025-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
